@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey,%20I'm%20Javier&animation=fadeIn&type=waving&color=0:2b5876,100:4e4376&height=120&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey,%20I'm%20Javier&animation=fadeIn&type=waving&color=gradient&height=120&fontSize=40&fontColor=ffffff"/>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 <!-- GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" width="400" alt="Cowboy Bebop"/>
+  <img src="./assets/preview.gif" width="400" alt="Preview"/>
 </p>
 
 <!-- ABOUT ME -->
