@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey,%20I'm%20Javier&animation=fadeIn&type=waving&color=gradient&height=120&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey,%20I'm%20Javier&animation=fadeIn&type=waving&color=0:2b5876,100:4e4376&height=120&fontSize=40&fontColor=ffffff"/>
 </p>
 
 <p align="center">
@@ -23,25 +23,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" width="400" alt="Cowboy Bebop"/>
 </p>
-
-<!-- ===== TEMPORARY GIF GALLERY — pick one, then this whole block gets deleted ===== -->
-<h2 align="center">🧪 GIF Candidates v2 — íconos AI/ML (dime cuál te late)</h2>
-
-<table align="center">
-  <tr>
-    <td align="center"><b>1 · HAL 9000 (2001) — "I'm sorry, Dave"</b><br/><img src="https://media.giphy.com/media/2Is0fJSMX7j9e/giphy.gif" width="260"/></td>
-    <td align="center"><b>2 · The Matrix — digital rain</b><br/><img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="260"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>3 · Ex Machina — Ava (IA + filosofía)</b><br/><img src="https://media.giphy.com/media/pNigN05meLnIk/giphy.gif" width="260"/></td>
-    <td align="center"><b>4 · Ghost in the Shell (anime + IA)</b><br/><img src="https://media.giphy.com/media/l0HlIPuyv9sq2PPyM/giphy.gif" width="260"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>5 · Terminator T2 — thumbs up</b><br/><img src="https://media.giphy.com/media/7TtvTUMm9mp20/giphy.gif" width="260"/></td>
-    <td align="center"><b>6 · WALL·E — IA con corazón</b><br/><img src="https://media.giphy.com/media/xGETXv4jmMKlO/giphy.gif" width="260"/></td>
-  </tr>
-</table>
-<!-- ===== END TEMPORARY GIF GALLERY ===== -->
 
 <!-- ABOUT ME -->
 <h2 align="center">🧠 About Me</h2>
