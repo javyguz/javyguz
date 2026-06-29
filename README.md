@@ -25,7 +25,7 @@
 </p>
 
 <!-- ABOUT ME -->
-<h2 align="center">🧠 About Me</h2>
+<h2 align="center">About Me</h2>
 
 ```yaml
 name: Javier Urrecha
@@ -39,7 +39,7 @@ education: MSc Data Science (AI & Statistics) @ University of York
 ```
 
 <!-- TECH STACK -->
-<h2 align="center">🧰 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center"><b>Languages</b></p>
 <p align="center">
@@ -98,7 +98,7 @@ education: MSc Data Science (AI & Statistics) @ University of York
 </p>
 
 <!-- GITHUB STATS -->
-<h2 align="center">📈 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=javyguz&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
