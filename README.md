@@ -25,23 +25,20 @@
 </p>
 
 <!-- ===== TEMPORARY GIF GALLERY — pick one, then this whole block gets deleted ===== -->
-<h2 align="center">🧪 GIF Candidates (temporary — tell me which to keep)</h2>
+<h2 align="center">🧪 GIF Candidates v2 — íconos AI/ML (dime cuál te late)</h2>
 
 <table align="center">
   <tr>
-    <td align="center"><b>1 · AI / neural network</b><br/><img src="https://media.giphy.com/media/re8uLsFI8WUeRZwT4U/giphy.gif" width="260"/></td>
-    <td align="center"><b>2 · This is fine</b><br/><img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="260"/></td>
+    <td align="center"><b>1 · HAL 9000 (2001) — "I'm sorry, Dave"</b><br/><img src="https://media.giphy.com/media/2Is0fJSMX7j9e/giphy.gif" width="260"/></td>
+    <td align="center"><b>2 · The Matrix — digital rain</b><br/><img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="260"/></td>
   </tr>
   <tr>
-    <td align="center"><b>3 · Robot dancing (Boston Dynamics)</b><br/><img src="https://media.giphy.com/media/koxVXnnmaQwllyovVG/giphy.gif" width="260"/></td>
-    <td align="center"><b>4 · Gradient descent</b><br/><img src="https://media.giphy.com/media/3o6oznaeHpJwhFc7GE/giphy.gif" width="260"/></td>
+    <td align="center"><b>3 · Ex Machina — Ava (IA + filosofía)</b><br/><img src="https://media.giphy.com/media/pNigN05meLnIk/giphy.gif" width="260"/></td>
+    <td align="center"><b>4 · Ghost in the Shell (anime + IA)</b><br/><img src="https://media.giphy.com/media/l0HlIPuyv9sq2PPyM/giphy.gif" width="260"/></td>
   </tr>
   <tr>
-    <td align="center"><b>5 · Loading / data progress</b><br/><img src="https://media.giphy.com/media/4FQMuOKR6zQRO/giphy.gif" width="260"/></td>
-    <td align="center"><b>6 · Panda (pandas pun)</b><br/><img src="https://media.giphy.com/media/Fd9bvTAsTNJyE/giphy.gif" width="260"/></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2"><b>7 · Correlation ≠ causation</b><br/><img src="https://media.giphy.com/media/pIIFV4RxFzYTEYGrX9/giphy.gif" width="260"/></td>
+    <td align="center"><b>5 · Terminator T2 — thumbs up</b><br/><img src="https://media.giphy.com/media/7TtvTUMm9mp20/giphy.gif" width="260"/></td>
+    <td align="center"><b>6 · WALL·E — IA con corazón</b><br/><img src="https://media.giphy.com/media/xGETXv4jmMKlO/giphy.gif" width="260"/></td>
   </tr>
 </table>
 <!-- ===== END TEMPORARY GIF GALLERY ===== -->
