@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey,%20I'm%20Javier%20%F0%9F%91%8B&animation=fadeIn&type=waving&color=gradient&height=120&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey,%20I'm%20Javier&animation=fadeIn&type=waving&color=gradient&height=120&fontSize=40&fontColor=ffffff"/>
 </p>
 
 <p align="center">
@@ -89,6 +89,13 @@ education: MSc Data Science (AI & Statistics) @ University of York
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 </p>
 
+<p align="center"><b>AI-Assisted Development</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenClaw-6E56CF?style=flat-square&logo=openai&logoColor=white"/>
+</p>
+
 <!-- GITHUB STATS -->
 <h2 align="center">📈 GitHub Stats</h2>
 
@@ -99,13 +106,6 @@ education: MSc Data Science (AI & Statistics) @ University of York
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=javyguz&theme=tokyonight&hide_border=true"/>
-</p>
-
-<!-- SNAKE GAME -->
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://github.com/javyguz/javyguz/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
 <!-- FOOTER -->
