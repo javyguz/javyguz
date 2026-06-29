@@ -24,6 +24,28 @@
   <img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" width="400" alt="Cowboy Bebop"/>
 </p>
 
+<!-- ===== TEMPORARY GIF GALLERY — pick one, then this whole block gets deleted ===== -->
+<h2 align="center">🧪 GIF Candidates (temporary — tell me which to keep)</h2>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>1 · AI / neural network</b><br/><img src="https://media.giphy.com/media/re8uLsFI8WUeRZwT4U/giphy.gif" width="260"/></td>
+    <td align="center"><b>2 · This is fine</b><br/><img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="260"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>3 · Robot dancing (Boston Dynamics)</b><br/><img src="https://media.giphy.com/media/koxVXnnmaQwllyovVG/giphy.gif" width="260"/></td>
+    <td align="center"><b>4 · Gradient descent</b><br/><img src="https://media.giphy.com/media/3o6oznaeHpJwhFc7GE/giphy.gif" width="260"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>5 · Loading / data progress</b><br/><img src="https://media.giphy.com/media/4FQMuOKR6zQRO/giphy.gif" width="260"/></td>
+    <td align="center"><b>6 · Panda (pandas pun)</b><br/><img src="https://media.giphy.com/media/Fd9bvTAsTNJyE/giphy.gif" width="260"/></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><b>7 · Correlation ≠ causation</b><br/><img src="https://media.giphy.com/media/pIIFV4RxFzYTEYGrX9/giphy.gif" width="260"/></td>
+  </tr>
+</table>
+<!-- ===== END TEMPORARY GIF GALLERY ===== -->
+
 <!-- ABOUT ME -->
 <h2 align="center">🧠 About Me</h2>
 
@@ -93,6 +115,7 @@ education: MSc Data Science (AI & Statistics) @ University of York
 <p align="center">
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenClaw-6E56CF?style=flat-square&logo=openai&logoColor=white"/>
 </p>
 
