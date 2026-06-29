@@ -21,7 +21,7 @@
 
 <!-- GIF -->
 <p align="center">
-  <img src="./assets/preview.gif" width="400" alt="Preview"/>
+  <img src="./assets/preview.gif" width="256" alt="Preview"/>
 </p>
 
 <!-- ABOUT ME -->
